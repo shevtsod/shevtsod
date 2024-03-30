@@ -3,7 +3,7 @@
 <h3>𝙷𝚒 𝚝𝚑𝚎𝚛𝚎, 𝙸'𝚖 𝙳𝚊𝚗𝚒𝚎𝚕!👋</h3>
 
 <br clear="both" />
-<div align="right"><sub><i><a href="https://shevtsod.com" target="_blank">𝚜𝚑𝚎𝚟𝚝𝚜𝚘𝚍.𝚌𝚘𝚖</a></i></sub></div>
+<div align="right"><sup><i><a href="https://shevtsod.com" target="_blank">𝚜𝚑𝚎𝚟𝚝𝚜𝚘𝚍.𝚌𝚘𝚖</a></i></sup></div>
 
 ### ❓ 𝙰 𝚋𝚒𝚝 𝚊𝚋𝚘𝚞𝚝 𝚖𝚎
 
